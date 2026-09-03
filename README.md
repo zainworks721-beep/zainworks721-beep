@@ -1,251 +1,278 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZAIN%20UL%20ABDIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20REACT.JS%20%7C%20JAVASCRIPT&descSize=16&descAlignY=62&animation=twinkling&color=0:050505,45:111827,75:374151,100:000000" width="100%" alt="Zain Ul Abdin animated banner">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZAIN%20UL%20ABDIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%2F%2F%20REACT%20ENGINEER&descAlignY=61&descSize=17&animation=twinkling&color=0:09090B,35:18181B,70:312E81,100:7C3AED"/>{=html}
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=34&duration=2200&pause=700&color=F3F4F6&center=true&vCenter=true&repeat=true&width=900&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85;Assalamu+Alaikum;Hola;Bonjour;Hallo;Ciao;%C2%A1Ol%C3%A1!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%E4%BD%A0%E5%A5%BD;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7" alt="Multilingual greeting animation">
-</p>
 
-<p align="center">
-  <a href="https://zain-ul-abdin.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
-  </a>
-  <a href="mailto:zainworks721@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=I+build+interfaces+that+feel+alive.;React.js+%2B+JavaScript+%2B+APIs.;From+pixel-perfect+UI+to+real+products.;Currently+building+a+video+platform+%2B+AI.;Open+to+Frontend+Internships+%F0%9F%9A%80" />{=html}
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+
+
+<a href="https://zain-ul-abdin.vercel.app">{=html}
+<img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
+</a>{=html}  
+<a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">{=html}
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>{=html}
+</a>{=html}   <a href="mailto:zainworks721@gmail.com">{=html}
+<img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>{=html}
+</a>{=html}
+:::
+
+<br>{=html}
+
+::: {align="center"}
+
+01 / ABOUT
+
+:::
 
 <table align="center">
+
 <tr>
-<td width="65%" valign="top">
 
-I'm Zain Ul Abdin, a frontend developer focused on building modern, responsive and interactive web applications.
+<td width="58%" valign="top">
 
-I work mainly with React.js, JavaScript, TypeScript, REST APIs and modern UI libraries. I enjoy turning ideas and designs into real, usable products.
+👋 Hey, I'm Zain.
 
-⚛️ React.js & reusable component architecture
+I'm a Frontend Developer focused on building clean, responsive and
+interactive web experiences with React.js, JavaScript and modern UI
+systems.
 
-🧠 JavaScript / ES6+ & modern React patterns
+I enjoy taking an idea from a blank screen → designing the experience →
+writing the components → connecting APIs → shipping the product.
 
-🔌 REST API integration & asynchronous data handling
-
-🧭 React Router & application navigation
-
-🔥 Firebase authentication and data workflows
-
-🎨 Responsive UI with Tailwind, Bootstrap & Ant Design
-
-🤖 Exploring practical AI integration in web applications
-
-🚀 Currently moving toward Node.js + Express
+Design        ████████████████████  UI / UX
+Frontend      ████████████████████  React.js
+JavaScript    ███████████████████░  JS / ES6+
+APIs          ██████████████████░░  REST / Async
+Backend       ████████░░░░░░░░░░░░  Learning Node.js
+AI            ███████░░░░░░░░░░░░░  Exploring
 
 </td>
 
-<td width="35%" valign="top">
+<td width="42%" valign="top">
 
-CURRENT STATUS
+⚡ Developer Mode
 
-● BUILDING
-
-ROLE
-Frontend Developer
-
-MAIN STACK
-React + JavaScript
-
-CURRENT PROJECT
-Video Platform + AI
-
-LEARNING NEXT
-Node.js / Express
-
-AVAILABLE FOR
-Frontend Internship
+┌─────────────────────────────┐
+│ STATUS                      │
+│ ● BUILDING                  │
+│                             │
+│ ROLE                        │
+│ Frontend Developer          │
+│                             │
+│ MAIN STACK                  │
+│ React + JS                  │
+│                             │
+│ CURRENT FOCUS               │
+│ Product UI + AI             │
+│                             │
+│ NEXT                        │
+│ Node.js / Express           │
+└─────────────────────────────┘
 
 </td>
+
 </tr>
+
 </table>
 
-<h2 align="center">⚙️ TECHNICAL SKILLS</h2>
+::: {align="center"}
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,antd,firebase,git,github,vscode,nodejs,express&perline=7" alt="Tech stack">
-</p>
+02 / TECH STACK
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br>{=html}
 
-Area
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,antd,firebase,git,github,vscode,nodejs,express&perline=7" />{=html}
+:::
 
-Technologies
+<br>{=html}
 
-Frontend
+::: {align="center"}
 
-HTML5, CSS3, JavaScript, TypeScript, React.js
+03 / SELECTED WORK
 
-React
-
-Hooks, Context API, React Router, reusable components
-
-API
-
-REST APIs, Fetch, async/await, CRUD
-
-UI
-
-Tailwind CSS, Bootstrap, Ant Design
-
-</td>
-<td width="50%" valign="top">
-
-Area
-
-Technologies
-
-Backend — Learning
-
-Node.js, Express.js
-
-Backend Services
-
-Firebase Authentication, Firestore
-
-Tools
-
-Git, GitHub, VS Code
-
-AI — Exploring
-
-AI-assisted features & API integration
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+:::
 
 <table align="center">
+
 <tr>
+
 <td width="50%" valign="top">
+
+<h3>
 
 ◈ NEXORA
 
-SaaS-style web experience focused on a modern product interface.
+</h3>
 
-<p>
-<a href="https://nexora-saas-platform-drab.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Nexora">
-</a>
-</p>
+High-performance SaaS-style web experience with a modern product-focused
+interface.
+
+<br>{=html}
+
+<a href="https://nexora-saas-platform-drab.vercel.app">{=html}
+<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
+</a>{=html}
 
 </td>
 
 <td width="50%" valign="top">
+
+<h3>
 
 ◈ SOLESTYLE
 
-Premium footwear experience with a clean visual and responsive interface.
+</h3>
 
-<p>
-<a href="https://step-style-landing-page.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="SoleStyle">
-</a>
-</p>
+Premium footwear experience designed around clean visuals, product
+presentation and responsive UI.
+
+<br>{=html}
+
+<a href="https://step-style-landing-page.vercel.app/">{=html}
+<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
+</a>{=html}
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
+
+<h3>
 
 ◈ ADMIN DASHBOARD
 
-Modern dashboard interface with authentication screens and reusable UI.
+</h3>
 
-<p>
-<a href="https://admin-dashboard-jade-phi-14.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Admin Dashboard">
-</a>
-</p>
+Dark dashboard interface with authentication flows and component-based
+UI.
+
+<br>{=html}
+
+<a href="https://admin-dashboard-jade-phi-14.vercel.app/">{=html}
+<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
+</a>{=html}
 
 </td>
 
 <td width="50%" valign="top">
 
+<h3>
+
 ◈ WEATHER NOW
 
-Weather application using real-world API data and asynchronous requests.
+</h3>
 
-<p>
-<a href="https://github.com/zainworks721-beep/weather-now">
-<img src="https://img.shields.io/badge/SOURCE%20CODE%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Weather Now">
-</a>
-</p>
+Weather application powered by API data with a responsive interface and
+real-world async handling.
+
+<br>{=html}
+
+<a href="https://github.com/zainworks721-beep/weather-now">{=html}
+<img src="https://img.shields.io/badge/SOURCE%20CODE%20↗-111827?style=for-the-badge&logo=github"/>{=html}
+</a>{=html}
 
 </td>
+
 </tr>
+
 </table>
 
-<h2 align="center">🚧 CURRENTLY BUILDING</h2>
+::: {align="center"}
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=9CA3AF&center=true&vCenter=true&width=850&lines=%5B+VIDEO+PLATFORM+%5D;Authentication+%E2%86%92+Profiles+%E2%86%92+Video+Uploads;Firebase+%2B+React;AI+Video+Metadata+Generation;AI+Video+Summaries;Next+Step+%E2%86%92+Node.js+%2B+Express" alt="Currently building animation">
-</p>
+04 / CURRENTLY BUILDING
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-VIDEO%20PLATFORM-111111?style=flat-square&labelColor=E5E7EB&color=111111" alt="Building video platform">
-  <img src="https://img.shields.io/badge/EXPLORING-AI-111111?style=flat-square&labelColor=E5E7EB&color=111111" alt="Exploring AI">
-  <img src="https://img.shields.io/badge/LEARNING-NODE.JS-111111?style=flat-square&labelColor=E5E7EB&color=111111" alt="Learning Node.js">
-</p>
+<br>{=html}
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=34D399&center=true&vCenter=true&width=760&lines=%5B+VIDEO+PLATFORM+%5D;Authentication+%E2%86%92+Profiles+%E2%86%92+Uploads;Firebase+%2B+React+architecture;AI+metadata+generation;AI+video+summaries;Next+%3A+Node.js+%2B+Express" />{=html}
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&hide_border=true&bg_color=050505&title_color=F3F4F6&icon_color=9CA3AF&text_color=D1D5DB&ring_color=F3F4F6" width="48%" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=zainworks721-beep&hide_border=true&background=050505&ring=F3F4F6&fire=F3F4F6&currStreakLabel=F3F4F6&sideLabels=D1D5DB&dates=6B7280" width="48%" alt="GitHub streak">
-</p>
+<br>{=html}<br>{=html}
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainworks721-beep&bg_color=050505&color=D1D5DB&line=F3F4F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Flow" width="96%" alt="Contribution graph">
-</p>
+<img src="https://img.shields.io/badge/BUILDING-VIDEO%20PLATFORM-10B981?style=flat-square&labelColor=09090B"/>{=html}
+<img src="https://img.shields.io/badge/EXPLORING-AI-8B5CF6?style=flat-square&labelColor=09090B"/>{=html}
+<img src="https://img.shields.io/badge/LEARNING-NODE.JS-60A5FA?style=flat-square&labelColor=09090B"/>{=html}
+:::
 
-<h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
+::: {align="center"}
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zainworks721-beep/zainworks721-beep/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake">
-</p>
+05 / GITHUB
 
-<h2 align="center">💼 OPEN TO OPPORTUNITIES</h2>
+<br>{=html}
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=800&color=F3F4F6&center=true&vCenter=true&width=700&lines=Frontend+Developer+Intern;React.js+Intern;Junior+Frontend+Developer;Ready+to+learn.+Ready+to+build." alt="Open to work animation">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4D8&ring_color=8B5CF6" width="48%"/>{=html}
+<img src="https://streak-stats.demolab.com?user=zainworks721-beep&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D4D4D8&dates=71717A" width="48%"/>{=html}
 
-<p align="center">
-  <a href="mailto:zainworks721@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER%20→-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Contact">
-  </a>
-</p>
+<br>{=html}<br>{=html}
 
-<h2 align="center">🌐 CONNECT</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainworks721-beep&bg_color=09090B&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Flow" width="96%"/>{=html}
+:::
 
-<p align="center">
-  <a href="https://zain-ul-abdin.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">LinkedIn</a> •
-  <a href="https://github.com/zainworks721-beep">GitHub</a> •
-  <a href="mailto:zainworks721@gmail.com">Email</a>
-</p>
+::: {align="center"}
 
-<p align="center">
-  <sub>Built with curiosity • powered by coffee • always learning</sub>
-</p>
+06 / CONTRIBUTION MATRIX
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:000000,50:111827,100:374151" width="100%" alt="Footer">
-</p>
+<br>{=html}
+
+<img src="https://raw.githubusercontent.com/zainworks721-beep/zainworks721-beep/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake animation"/>{=html}
+
+<br>{=html}
+
+<sub>{=html}↑ This animation is generated automatically by GitHub
+Actions.</sub>{=html}
+:::
+
+::: {align="center"}
+
+07 / THE ROADMAP
+
+<br>{=html}
+
+        ┌─────────┐
+        │   UI    │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │ REACT   │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │  APIs   │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │   AI    │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │ NODE.js │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │ FULL    │
+        │ STACK   │
+        └─────────┘
+
+:::
+
+::: {align="center"}
+
+08 / OPEN TO WORK
+
+<br>{=html}
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=FBBF24&center=true&vCenter=true&width=650&lines=Frontend+Developer+Intern;React.js+Intern;Junior+Frontend+Developer;Let's+build+something+great." />{=html}
+
+<br>{=html}<br>{=html}
+
+<a href="mailto:zainworks721@gmail.com">{=html}
+<img src="https://img.shields.io/badge/%E2%86%92%20LET'S%20BUILD%20TOGETHER-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
+</a>{=html}
+:::
+
+<br>{=html}
+
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,40:312E81,70:18181B,100:09090B&animation=twinkling"/>{=html}
+:::
+ file dekh rahy ho apne ???? mujhe yh color pasnd hinh arhy na layout 
