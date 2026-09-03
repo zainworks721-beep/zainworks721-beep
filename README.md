@@ -1,278 +1,168 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZAIN%20UL%20ABDIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%2F%2F%20REACT%20ENGINEER&descAlignY=61&descSize=17&animation=twinkling&color=0:09090B,35:18181B,70:312E81,100:7C3AED"/>{=html}
+<p align="center">
+  <img src="https://res.cloudinary.com/dpwykqiea/image/upload/v1783811097/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866_ub1sn2.gif" width="100%" alt="Banner GIF">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=38&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=بِسْمِ+ٱللَّٰهِ+ٱلرَّحْمَٰنِ+ٱلرَّحِيمِ" />
+</p>
+
+----
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:a855f7&height=150&section=header&text=Muhammad%20Irtiza%20Khan&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator%20in%20Web%20Applications%20%7C%20Prompt%20Engineer%20Certified&descSize=13&descAlignY=65&fontAlign=50&descAlign=50)
+
+</div>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=muhmmmadirtizakhan&label=Profile%20Views&color=06b6d4&style=flat-square" alt="Profile Views"/>
+<img align="right" src="https://img.shields.io/github/followers/muhmmmadirtizakhan?label=Followers&style=flat-square&color=a855f7" alt="Followers"/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06B6D4&center=false&vCenter=true&width=650&lines=🚀+Building+AETHERIC+Hotel+Management;🏨+Developing+QuickStay;💊+Creating+MedixWeb;🤖+Building+Rehnuma+AI+Assistant)
+
+----
+<div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=I+build+interfaces+that+feel+alive.;React.js+%2B+JavaScript+%2B+APIs.;From+pixel-perfect+UI+to+real+products.;Currently+building+a+video+platform+%2B+AI.;Open+to+Frontend+Internships+%F0%9F%9A%80" />{=html}
+### 👨‍💻 About Me
 
+---
 
+</div>
 
-<a href="https://zain-ul-abdin.vercel.app">{=html}
-<img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
-</a>{=html}  
-<a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">{=html}
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>{=html}
-</a>{=html}   <a href="mailto:zainworks721@gmail.com">{=html}
-<img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>{=html}
-</a>{=html}
-:::
+💻 **BSSE Student** | University of Karachi<br/>
+🚀 Enthusiastic **Full Stack Web Developer** skilled across both frontend & backend layers<br/>
+⚙️ Hands-on experience architecting scalable web applications with modern tech stacks<br/>
+🤖 Proficient in **50+ AI Tools** for streamlined development, productivity & automation<br/>
+🌐 Driven by curiosity — crafting interactive products, tackling real-world challenges, and exploring emerging technologies<br/>
+⚙️ Successfully  integration of AI in Web Solutions and Application
 
-<br>{=html}
+----
 
-::: {align="center"}
+<div align="center">
 
-01 / ABOUT
+### 🏆Certifications
 
-:::
+---
 
-<table align="center">
+</div>
 
+🏆 **Certified Prompt Engineer** — Government of Dubai (One Million Prompters) `2025`<br/>
+🎓 **Generative AI** — LinkedIn Learning `2025`<br/>
+☁️ **Innovating with Google Cloud AI** — Google `2025`<br/>
+🧠 **Introduction to Generative AI Studio** `2025`<br/>
+🤖 **Introduction to Artificial Intelligence** — HP `2025`<br/>
+
+---
+
+<div align="center">
+
+### ⚙️Technical Skills
+
+---
+
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="58%" valign="top">
-
-👋 Hey, I'm Zain.
-
-I'm a Frontend Developer focused on building clean, responsive and
-interactive web experiences with React.js, JavaScript and modern UI
-systems.
-
-I enjoy taking an idea from a blank screen → designing the experience →
-writing the components → connecting APIs → shipping the product.
-
-Design        ████████████████████  UI / UX
-Frontend      ████████████████████  React.js
-JavaScript    ███████████████████░  JS / ES6+
-APIs          ██████████████████░░  REST / Async
-Backend       ████████░░░░░░░░░░░░  Learning Node.js
-AI            ███████░░░░░░░░░░░░░  Exploring
+| Category | Skills |
+|---|---|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C) ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26) ![React](https://img.shields.io/badge/React.js-000000?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E) |
 
 </td>
+<td width="50%" valign="top">
 
-<td width="42%" valign="top">
-
-⚡ Developer Mode
-
-┌─────────────────────────────┐
-│ STATUS                      │
-│ ● BUILDING                  │
-│                             │
-│ ROLE                        │
-│ Frontend Developer          │
-│                             │
-│ MAIN STACK                  │
-│ React + JS                  │
-│                             │
-│ CURRENT FOCUS               │
-│ Product UI + AI             │
-│                             │
-│ NEXT                        │
-│ Node.js / Express           │
-└─────────────────────────────┘
+| Category | Skills |
+|---|---|
+| **Auth & Security** | ![Firebase](https://img.shields.io/badge/Firebase_Auth-000000?style=flat-square&logo=firebase&logoColor=FFCA28) ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat-square&logo=clerk&logoColor=6C47FF) |
+| **Forms** | ![Web3Forms](https://img.shields.io/badge/Web3Forms-000000?style=flat-square&logo=maildotru&logoColor=39FF14) ![Formspree](https://img.shields.io/badge/Formspree-000000?style=flat-square&logo=formspree&logoColor=A855F7) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC) |
+| **AI & Prompt Eng.** | ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=openai&logoColor=39FF14) ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square&logo=googlegemini&logoColor=A855F7) ![Automation](https://img.shields.io/badge/Automation-000000?style=flat-square&logo=zapier&logoColor=FF4A00) |
 
 </td>
-
 </tr>
-
 </table>
 
-::: {align="center"}
+</div>
 
-02 / TECH STACK
+<div align="center">
 
-<br>{=html}
+---
+### 💼 Experience
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,antd,firebase,git,github,vscode,nodejs,express&perline=7" />{=html}
-:::
+----
 
-<br>{=html}
+| Role | Company | Duration | Description |
+|---|---|---|---|
+| **Software Engineering Intern** | Nebulark IT Company, Islamabad | July 2026 – Present | Joining as a software engineering intern, contributing to live projects while applying full-stack and AI-integration skills in a professional team environment |
+| **Co-Founder** | Nexora Technologies | 2026 – Present | Co-founded an AI-focused freelancing agency delivering digital solutions to local SMEs; leads client acquisition, project scoping, and end-to-end development for Karachi-based businesses |
+| **Full-Stack Intern** | professional youth foundation of pakistan | 3 Months | Built AI chatbot "Rehnuma" using HTML, CSS, JavaScript, Node.js & Express.js; integrated Google Gemini Flash 2.5 API for intelligent responses; developed a fully responsive frontend with robust backend APIs and applied prompt engineering to improve interaction quality |
 
-::: {align="center"}
+</div>
 
-03 / SELECTED WORK
+----
+<div align="center">
+  
+### 🐍 GitHub Activity
 
-:::
+-----
 
-<table align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhmmmadirtizakhan/muhmmmadirtizakhan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
 
-<tr>
+</div>
+---
 
-<td width="50%" valign="top">
+<div align="center">
 
-<h3>
+----
 
-◈ NEXORA
+### 📊 GitHub Stats
 
-</h3>
+----
 
-High-performance SaaS-style web experience with a modern product-focused
-interface.
+<img src="https://github-stats-extended.vercel.app/api?username=muhmmmadirtizakhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=a855f7&text_color=ffffff&ring_color=06b6d4" alt="GitHub Stats" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhmmmadirtizakhan&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff&langs_count=8" alt="Top Languages" width="48%"/>
 
-<br>{=html}
+</div>
 
-<a href="https://nexora-saas-platform-drab.vercel.app">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
-</a>{=html}
+----
 
-</td>
+<h2 align="center">🏆 GitHub Trophies</h2
 
-<td width="50%" valign="top">
+ ----                                     
 
-<h3>
+<div align="center">
 
-◈ SOLESTYLE
+<img src="https://github-trophies.vercel.app/?username=muhmmmadirtizakhan&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies"/>
 
-</h3>
+</div>
 
-Premium footwear experience designed around clean visuals, product
-presentation and responsive UI.
 
-<br>{=html}
+<div align="center">
 
-<a href="https://step-style-landing-page.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
-</a>{=html}
+---
 
-</td>
+### 🌐 Connect With Me
 
-</tr>
+---
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/irtiza8259)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhmmmadirtizakhan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923213369154)
+[![Nexora Technologies](https://img.shields.io/badge/Nexora_Technologies-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://nexora-five-topaz.vercel.app/)
 
-<tr>
+</div>
 
-<td width="50%" valign="top">
+---
 
-<h3>
 
-◈ ADMIN DASHBOARD
+<div align="center">
 
-</h3>
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:a855f7&height=120&section=footer&text=%22Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.%22&fontSize=16&fontColor=ffffff&fontAlignY=50&fontAlign=50)
 
-Dark dashboard interface with authentication flows and component-based
-UI.
-
-<br>{=html}
-
-<a href="https://admin-dashboard-jade-phi-14.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
-</a>{=html}
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-
-◈ WEATHER NOW
-
-</h3>
-
-Weather application powered by API data with a responsive interface and
-real-world async handling.
-
-<br>{=html}
-
-<a href="https://github.com/zainworks721-beep/weather-now">{=html}
-<img src="https://img.shields.io/badge/SOURCE%20CODE%20↗-111827?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
-</td>
-
-</tr>
-
-</table>
-
-::: {align="center"}
-
-04 / CURRENTLY BUILDING
-
-<br>{=html}
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=34D399&center=true&vCenter=true&width=760&lines=%5B+VIDEO+PLATFORM+%5D;Authentication+%E2%86%92+Profiles+%E2%86%92+Uploads;Firebase+%2B+React+architecture;AI+metadata+generation;AI+video+summaries;Next+%3A+Node.js+%2B+Express" />{=html}
-
-<br>{=html}<br>{=html}
-
-<img src="https://img.shields.io/badge/BUILDING-VIDEO%20PLATFORM-10B981?style=flat-square&labelColor=09090B"/>{=html}
-<img src="https://img.shields.io/badge/EXPLORING-AI-8B5CF6?style=flat-square&labelColor=09090B"/>{=html}
-<img src="https://img.shields.io/badge/LEARNING-NODE.JS-60A5FA?style=flat-square&labelColor=09090B"/>{=html}
-:::
-
-::: {align="center"}
-
-05 / GITHUB
-
-<br>{=html}
-
-<img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4D8&ring_color=8B5CF6" width="48%"/>{=html}
-<img src="https://streak-stats.demolab.com?user=zainworks721-beep&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D4D4D8&dates=71717A" width="48%"/>{=html}
-
-<br>{=html}<br>{=html}
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainworks721-beep&bg_color=09090B&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Flow" width="96%"/>{=html}
-:::
-
-::: {align="center"}
-
-06 / CONTRIBUTION MATRIX
-
-<br>{=html}
-
-<img src="https://raw.githubusercontent.com/zainworks721-beep/zainworks721-beep/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake animation"/>{=html}
-
-<br>{=html}
-
-<sub>{=html}↑ This animation is generated automatically by GitHub
-Actions.</sub>{=html}
-:::
-
-::: {align="center"}
-
-07 / THE ROADMAP
-
-<br>{=html}
-
-        ┌─────────┐
-        │   UI    │
-        └────┬────┘
-             ↓
-        ┌─────────┐
-        │ REACT   │
-        └────┬────┘
-             ↓
-        ┌─────────┐
-        │  APIs   │
-        └────┬────┘
-             ↓
-        ┌─────────┐
-        │   AI    │
-        └────┬────┘
-             ↓
-        ┌─────────┐
-        │ NODE.js │
-        └────┬────┘
-             ↓
-        ┌─────────┐
-        │ FULL    │
-        │ STACK   │
-        └─────────┘
-
-:::
-
-::: {align="center"}
-
-08 / OPEN TO WORK
-
-<br>{=html}
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=FBBF24&center=true&vCenter=true&width=650&lines=Frontend+Developer+Intern;React.js+Intern;Junior+Frontend+Developer;Let's+build+something+great." />{=html}
-
-<br>{=html}<br>{=html}
-
-<a href="mailto:zainworks721@gmail.com">{=html}
-<img src="https://img.shields.io/badge/%E2%86%92%20LET'S%20BUILD%20TOGETHER-8B5CF6?style=for-the-badge&labelColor=09090B"/>{=html}
-</a>{=html}
-:::
-
-<br>{=html}
-
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,40:312E81,70:18181B,100:09090B&animation=twinkling"/>{=html}
-:::
- file dekh rahy ho apne ???? mujhe yh color pasnd hinh arhy na layout 
+</div>
