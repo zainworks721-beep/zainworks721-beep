@@ -87,76 +87,10 @@
 
 | Role | Company / Organization | Duration | Description |
 |---|---|---|---|
-| **Frontend Developer** | Personal & Client Projects | 2025 – Present | Building responsive web applications and modern interfaces using React.js, JavaScript, Firebase and modern UI libraries |
+| **Frontend Developer** | Personal Project | 2025 – Present | Building responsive web applications and modern interfaces using React.js, JavaScript, Firebase and modern UI libraries |
 | **React Developer** | Self-Initiated Projects | 2025 – Present | Developed multiple projects including admin dashboards, e-commerce interfaces, landing pages, Todo applications and API-driven applications |
 | **Frontend Developer** | YouTube-Like Platform | 2026 – Present | Building a video platform with authentication, Google login, user profiles, video uploads, Firebase integration and planned AI-powered metadata and summarization features |
 | **Full-Stack Developer in Progress** | Self Learning | 2026 – Present | Currently learning Node.js and Express.js to expand frontend expertise toward full-stack development |
-
-----
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-----
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Nexora
-
-High-performance SaaS-style web experience focused on modern UI, responsive layouts and polished frontend interactions.
-
-**Tech:** HTML • CSS • JavaScript
-
-[🔗 Live Demo](https://nexora-saas-platform-drab.vercel.app)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👟 SoleStyle
-
-Modern footwear landing page featuring responsive layouts, product-focused UI and clean visual design.
-
-**Tech:** HTML • CSS • JavaScript
-
-[🔗 Live Demo](https://step-style-landing-page.vercel.app/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Admin Dashboard
-
-Responsive admin dashboard built with React and Ant Design featuring authentication UI, tables, modals, statistics and reusable components.
-
-**Tech:** React • Ant Design • JavaScript
-
-[🔗 Live Demo](https://admin-dashboard-jade-phi-14.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌦️ Weather Now
-
-Weather application using API integration, geolocation, responsive UI, loading states and error handling.
-
-**Tech:** JavaScript • REST API • CSS
-
-[🔗 GitHub Repository](https://github.com/zainworks721-beep/weather-now)
-
-</td>
-</tr>
-</table>
-
-----
 
 <div align="center">
 
