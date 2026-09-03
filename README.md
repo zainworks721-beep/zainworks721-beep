@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dpwykqiea/image/upload/v1783811097/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866_ub1sn2.gif" width="100%" alt="Banner GIF">
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 12px;" alt="Banner">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=38&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=بِسْمِ+ٱللَّٰهِ+ٱلرَّحْمَٰنِ+ٱلرَّحِيمِ" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=بِسْمِ+ٱللَّٰهِ+ٱلرَّحْمَٰنِ+ٱلرَّحِيمِ;Assalamu+Alaikum+!+Welcome+to+my+profile;Bonjour+!+Hola+!+你好+!;مرحباً+بكم+في+ملفي+الشخصي" />
 </p>
 
 ----
@@ -24,7 +24,6 @@
 ----
 <div align="center">
 
-
 ### 👨‍💻 About Me
 
 ---
@@ -36,13 +35,13 @@
 ⚙️ Hands-on experience architecting scalable web applications with modern tech stacks<br/>
 🤖 Proficient in **50+ AI Tools** for streamlined development, productivity & automation<br/>
 🌐 Driven by curiosity — crafting interactive products, tackling real-world challenges, and exploring emerging technologies<br/>
-⚙️ Successfully  integration of AI in Web Solutions and Application
+⚙️ Successful integration of AI in Web Solutions and Applications
 
 ----
 
 <div align="center">
 
-### 🏆Certifications
+### 🏆 Certifications
 
 ---
 
@@ -58,7 +57,7 @@
 
 <div align="center">
 
-### ⚙️Technical Skills
+### ⚙️ Technical Skills
 
 ---
 
@@ -98,9 +97,9 @@
 
 | Role | Company | Duration | Description |
 |---|---|---|---|
-| **Software Engineering Intern** | Nebulark IT Company, Islamabad | July 2026 – Present | Joining as a software engineering intern, contributing to live projects while applying full-stack and AI-integration skills in a professional team environment |
-| **Co-Founder** | Nexora Technologies | 2026 – Present | Co-founded an AI-focused freelancing agency delivering digital solutions to local SMEs; leads client acquisition, project scoping, and end-to-end development for Karachi-based businesses |
-| **Full-Stack Intern** | professional youth foundation of pakistan | 3 Months | Built AI chatbot "Rehnuma" using HTML, CSS, JavaScript, Node.js & Express.js; integrated Google Gemini Flash 2.5 API for intelligent responses; developed a fully responsive frontend with robust backend APIs and applied prompt engineering to improve interaction quality |
+| **Software Engineering Intern** | Nebulark IT Company, Islamabad | July 2026 – Present | Contributing to live projects while applying full-stack and AI-integration skills in a professional team environment |
+| **Co-Founder** | Nexora Technologies | 2026 – Present | Co-founded an AI-focused freelancing agency delivering digital solutions to local SMEs; leads client acquisition, project scoping, and end-to-end development |
+| **Full-Stack Intern** | Professional Youth Foundation of Pakistan | 3 Months | Built AI chatbot "Rehnuma" using HTML, CSS, JavaScript, Node.js & Express.js; integrated Google Gemini API for intelligent responses |
 
 </div>
 
@@ -133,16 +132,15 @@
 
 ----
 
-<h2 align="center">🏆 GitHub Trophies</h2
+<h2 align="center">🏆 GitHub Trophies</h2>
 
- ----                                     
+----
 
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=muhmmmadirtizakhan&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies"/>
 
 </div>
-
 
 <div align="center">
 
@@ -159,7 +157,6 @@
 </div>
 
 ---
-
 
 <div align="center">
 
