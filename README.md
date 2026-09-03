@@ -1,337 +1,65 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
-# 👋 Hey, I'm Zain Ul Abdin
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,50:302B63,100:24243E&text=ZAIN%20UL%20ABDIN&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20JavaScript&descAlignY=62&descSize=18" width="100%"/>
 
-### Frontend Developer • React.js • JavaScript • TypeScript
+<br/>
 
-<p>
-  I build modern, responsive and interactive web experiences  
-  with a strong focus on clean UI, reusable components and real-world functionality.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;React.js+Developer+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%F0%9F%8C%90;Turning+Ideas+Into+Interfaces+%F0%9F%8E%A8;Currently+Building+Something+Big+%F0%9F%9A%80" />
 
 <br/>
 
 <a href="https://zain-ul-abdin.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-8B5CF6?style=for-the-badge&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-111827?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:zainworks721@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%93%A7%20Contact-111827?style=for-the-badge"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=zainworks721-beep&label=Profile%20Views&color=111827&style=flat" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">⚡ Building Digital Experiences</h2>
 
-I'm a frontend-focused developer who enjoys turning ideas and designs into **responsive, interactive and production-style web applications**.
+<div align="center">
 
-I started with the fundamentals of **HTML, CSS and JavaScript** and gradually moved into the React ecosystem, where I've been building real-world projects and exploring modern frontend architecture.
-
-### What I'm focused on right now
-
-* ⚛️ Building scalable React applications
-* 🧩 Creating reusable and maintainable components
-* 🔌 Working with REST APIs and Firebase
-* 🔐 Authentication and application flows
-* 🎨 Building polished, responsive interfaces
-* 🧠 Improving JavaScript & TypeScript fundamentals
-* 🤖 Exploring practical AI integration in web applications
-* 🛠️ Learning backend development with Node.js & Express
-
-> **Build → Understand → Improve → Repeat.**
-
----
-
-## ⚡ What I Build
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🎨 Modern UI          ⚛️ React Applications            │
-│                                                         │
-│   🔌 API Integration    🔐 Authentication               │
-│                                                         │
-│   📱 Responsive Design  🗃️ Firebase Applications        │
-│                                                         │
-│   🤖 AI-powered Apps    🧩 Reusable Components          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-I care about more than making a page "look good".
-
-My goal is to understand **why the code works**, how components communicate, how state flows through an application, and how the pieces fit together.
-
----
-
-# 🚀 Featured Projects
-
-## 🥇 Nexora — SaaS Platform
-
-A modern SaaS-style web experience focused on polished UI, responsive layouts and a product-oriented interface.
-
-**Stack:** React • JavaScript • CSS • Modern UI
-
-🔗 **Live:** https://nexora-saas-platform-drab.vercel.app
-
----
-
-## 👟 SoleStyle — Premium Footwear Landing Page
-
-A visually-focused footwear landing page built around modern product presentation, responsive layouts and polished frontend interactions.
-
-**Stack:** React • JavaScript • CSS • Responsive Design
-
-🔗 **Live:** https://step-style-landing-page.vercel.app
-
----
-
-## 📊 Admin Dashboard
-
-A responsive admin dashboard interface with authentication screens and modern dashboard UI patterns.
-
-**Stack:** React • Ant Design • JavaScript • Responsive UI
-
-🔗 **Live:** https://admin-dashboard-jade-phi-14.vercel.app
-
----
-
-## 🌦️ Weather Now
-
-A weather application built around API integration, location-based weather data, loading states and error handling.
-
-**Stack:** React • JavaScript • REST API • CSS
-
-🔗 **Code:** https://github.com/zainworks721-beep/weather-now
-
----
-
-## 📝 React Todo Application
-
-A practical task-management application focused on CRUD operations, state management and persistent local data.
-
-**Stack:** React • JavaScript • LocalStorage
-
----
-
-## 🛒 More Projects
-
-I've also built and experimented with:
-
-* 🛍️ E-Commerce applications
-* 🏪 Daraz-inspired UI
-* 📱 OLX-inspired marketplace UI
-* 💼 LinkedIn-inspired social UI
-* 🔐 Authentication & login systems
-* 📝 Multiple Todo applications
-* 🎨 Landing pages & UI recreations
-* 📊 Dashboard interfaces
-* 🌐 API-based applications
-
-**More projects →**
-🌐 https://zain-ul-abdin.vercel.app
-
----
-
-# 🧰 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
-
-### UI & Styling
-
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</p>
-
-### Backend & Services
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,express" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
-
----
-
-# ⚛️ React Skills
-
-Currently working with:
-
-* `useState`
-* `useEffect`
-* `useReducer`
-* `useRef`
-* `useContext`
-* `useMemo`
-* `useCallback`
-* `useLayoutEffect`
-* `useImperativeHandle`
-* Custom Hooks
-* React Router
-* Nested & Protected Routes
-* Lazy Loading
-* API Integration
-* Component Architecture
-* State Management
-* Performance Optimization
-
----
-
-# 🧠 JavaScript & TypeScript
-
-### JavaScript
-
-`ES6+` • Functions • Arrays • Objects • Destructuring • Spread/Rest • Promises • Async/Await • Fetch • DOM • Events • Closures • Event Loop • Modules
-
-### TypeScript
-
-`Interfaces` • `Types` • `Generics` • `Enums` • `Partial` • `Pick` • `Omit` • Type Annotations • Type Inference
-
----
-
-# 🔥 Currently Building
-
-### 🎬 YouTube-like Full-Stack Platform
-
-A larger real-world project combining multiple concepts I've learned throughout my frontend journey.
-
-**Current focus:**
-
-* 🔐 Authentication
-* 🔑 Google Authentication
-* 👤 User Profiles
-* 📤 Video Uploads
-* 🗃️ Firebase
-* 🔌 API-based architecture
-* 🎨 Responsive UI
-* ⚛️ React component architecture
-* 🤖 AI-powered video features
-
-### AI direction
-
-I'm exploring AI features that actually make sense inside the product rather than adding AI just for the sake of it.
-
-Planned features include:
-
-> **AI Video Metadata Generator**
-> Generate titles, descriptions, tags and structured metadata.
-
-> **AI Video Summarizer**
-> Generate useful summaries and eventually chapters from video/transcript data.
-
----
-
-# 📈 My Development Journey
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-Responsive Web Design
-  ↓
-APIs & Git/GitHub
-  ↓
+text
+Frontend Developer
+        ↓
 React.js
-  ↓
-TypeScript
-  ↓
-Firebase
-  ↓
-Real-world React Applications
-  ↓
-AI Integration
-  ↓
-Node.js + Express
-  ↓
-Full-Stack Development
-```
+        ↓
+Reusable Components
+        ↓
+API Integration
+        ↓
+Modern UI / UX
+        ↓
+Real World Applications
+</div> <p align="center"> I build responsive, interactive and modern web applications with <strong>React.js</strong> and <strong>JavaScript</strong>. </p>  
 
----
+<h2 align="center">🛠️ Tech Stack</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,antd,git,github,vscode,firebase&perline=6" /> </div>
+<h2 align="center">🚀 Featured Projects</h2> <table align="center"> <tr> <td width="50%"> <h3 align="center">🔥 Nexora</h3> <p align="center"> High-performance SaaS style web experience. </p> <p align="center"> <a href="https://nexora-saas-platform-drab.vercel.app"> <img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=for-the-badge"/> </a> </p> </td> <td width="50%"> <h3 align="center">👟 SoleStyle</h3> <p align="center"> Modern premium footwear shopping experience. </p> <p align="center"> <a href="https://step-style-landing-page.vercel.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=for-the-badge"/> </a> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">📊 Admin Dashboard</h3> <p align="center"> Modern dashboard interface with authentication UI. </p> <p align="center"> <a href="https://admin-dashboard-jade-phi-14.vercel.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=for-the-badge"/> </a> </p> </td> <td width="50%"> <h3 align="center">🌦️ Weather Now</h3> <p align="center"> Weather application using real-time API data. </p> <p align="center"> <a href="https://github.com/zainworks721-beep/weather-now"> <img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github"/> </a> </p> </td> </tr> </table>
 
-# 🎯 What I'm Looking For
+<h2 align="center">🚧 Currently Building</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=650&lines=YouTube-like+Video+Platform+%F0%9F%8E%A5;Firebase+Authentication+%E2%9C%85;Video+Upload+System+%E2%9C%85;AI+Video+Metadata+Generation+%F0%9F%A4%96;AI+Video+Summaries+%F0%9F%A7%A0;Next+Step%3A+Node.js+%2B+Express+%F0%9F%9A%80" /> </div>
 
-I'm currently looking for opportunities where I can:
+<h2 align="center">📈 GitHub Activity</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainworks721-beep&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6" height="170"/> </div> <br/> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainworks721-beep&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
 
-* 🚀 Work on real-world frontend projects
-* ⚛️ Grow as a React developer
-* 🤝 Learn from experienced developers
-* 🧠 Improve my software engineering practices
-* 🔧 Contribute to a real development team
-* 📈 Eventually grow into full-stack development
+<h2 align="center">🧠 Development Journey</h2> <div align="center">
 
-### Open to
+HTML → CSS → JavaScript → React → APIs → Firebase → AI → Node.js
 
-**Frontend Developer Intern • React.js Intern • Web Developer Intern • Junior Frontend Developer**
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainworks721-beep&hide_border=true&theme=transparent" width="48%" />
+</div> <br/> <p align="center"> Currently focused on becoming a stronger <strong>Frontend Developer</strong> while gradually moving toward <strong>Full-Stack Development</strong>. </p>
+<h2 align="center">💼 Open To Opportunities</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Frontend+Developer+Intern;React.js+Intern;Junior+Frontend+Developer;Open+to+Remote+%26+On-site+Opportunities" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainworks721-beep&layout=compact&hide_border=true&theme=transparent" width="45%" />
+<a href="mailto:zainworks721@gmail.com"> <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20GREAT-8B5CF6?style=for-the-badge"/> </a> </div>
 
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://zain-ul-abdin.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">
-<img src="https://img.shields.io/badge/LinkedIn-Zain%20Ul%20Abdin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/zainworks721-beep">
-<img src="https://img.shields.io/badge/GitHub-zainworks721--beep-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:zainworks721@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 "Don't just write code. Understand it."
-
-**Learning every day. Building every day. Getting better every day.**
-
-<br/>
-
-⭐ If you find something interesting in my work, feel free to explore the repositories.
-
-</div>
+<h2 align="center">🌐 Let's Connect</h2> <div align="center"> <a href="https://zain-ul-abdin.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/zainworks721-beep"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/> </a> </div> <br/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Code.+Create.+Improve.+Repeat.+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9A%A1" /> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243E,50:302B63,100:0F0C29&section=footer" width="100%"/> </div>
