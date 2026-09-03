@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dpwykqiea/image/upload/v1783811097/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866_ub1sn2.gif" width="100%" alt="Zain Ul Abdin Banner">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer-Transparent.gif" width="100%" style="border-radius: 12px;" alt="Developer Workspace"" width="100%" alt="Zain Ul Abdin Banner">
 </p>
 
 ---
