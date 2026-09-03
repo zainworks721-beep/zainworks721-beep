@@ -1,226 +1,251 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZAIN%20UL%20ABDIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20REACT.JS%20%7C%20JAVASCRIPT&descSize=16&descAlignY=62&animation=twinkling&color=0:050505,45:111827,75:374151,100:000000" width="100%" alt="Zain Ul Abdin animated banner">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ZAIN%20UL%20ABDIN&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:050505,55:111111,100:1F2937" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=34&duration=2200&pause=700&color=F3F4F6&center=true&vCenter=true&repeat=true&width=900&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85;Assalamu+Alaikum;Hola;Bonjour;Hallo;Ciao;%C2%A1Ol%C3%A1!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%E4%BD%A0%E5%A5%BD;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7" alt="Multilingual greeting animation">
+</p>
 
-<br>
+<p align="center">
+  <a href="https://zain-ul-abdin.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
+  </a>
+  <a href="mailto:zainworks721@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email">
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&lines=Frontend+Developer+%7C+React.js;I+build+interfaces%2C+not+just+pages.;React+%E2%80%A2+JavaScript+%E2%80%A2+APIs+%E2%80%A2+Firebase;Currently+building+Video+%2B+AI;Open+to+Frontend+Internships+%F0%9F%9A%80"/>
-
-<br><br>
-
-<a href="https://zain-ul-abdin.vercel.app">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF&logoColor=111111"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="mailto:zainworks721@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-BUILD / SHIP / IMPROVE
-
-</div>
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
 <table align="center">
 <tr>
 <td width="65%" valign="top">
 
-👋 Hi, I'm Zain
+I'm Zain Ul Abdin, a frontend developer focused on building modern, responsive and interactive web applications.
 
-Frontend developer focused on React.js and JavaScript, with a strong interest in product interfaces, reusable components and real-world API-driven applications.
+I work mainly with React.js, JavaScript, TypeScript, REST APIs and modern UI libraries. I enjoy turning ideas and designs into real, usable products.
 
-I like the part where an idea goes from:
+⚛️ React.js & reusable component architecture
 
-concept → interface → components → data → working product
+🧠 JavaScript / ES6+ & modern React patterns
 
-<br>
+🔌 REST API integration & asynchronous data handling
 
-<img src="https://img.shields.io/badge/FOCUS-REACT.JS-111111?style=flat-square&labelColor=E5E7EB&color=111111"/>
-<img src="https://img.shields.io/badge/BUILDING-VIDEO%20%2B%20AI-111111?style=flat-square&labelColor=E5E7EB&color=111111"/>
-<img src="https://img.shields.io/badge/NEXT-NODE.JS-111111?style=flat-square&labelColor=E5E7EB&color=111111"/>
+🧭 React Router & application navigation
+
+🔥 Firebase authentication and data workflows
+
+🎨 Responsive UI with Tailwind, Bootstrap & Ant Design
+
+🤖 Exploring practical AI integration in web applications
+
+🚀 Currently moving toward Node.js + Express
 
 </td>
 
 <td width="35%" valign="top">
 
-STATUS
+CURRENT STATUS
 
-● AVAILABLE
+● BUILDING
 
-Role
+ROLE
 Frontend Developer
 
-Stack
+MAIN STACK
 React + JavaScript
 
-Building
-Video Platform
+CURRENT PROJECT
+Video Platform + AI
 
-Exploring
-AI + Backend
+LEARNING NEXT
+Node.js / Express
+
+AVAILABLE FOR
+Frontend Internship
 
 </td>
 </tr>
 </table>
 
-<br>
+<h2 align="center">⚙️ TECHNICAL SKILLS</h2>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=9CA3AF&center=true&vCenter=true&width=720&lines=%E2%94%80%E2%94%80%E2%94%80+CURRENTLY+BUILDING+%E2%94%80%E2%94%80%E2%94%80;Video+Platform+%2B+AI;Authentication+%E2%86%92+Profiles+%E2%86%92+Uploads+%E2%86%92+AI;Metadata+Generation+%2B+Video+Summaries;Next+step%3A+Node.js+%2B+Express"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-⚙️ STACK
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,antd,firebase,git,github,vscode,nodejs,express&perline=7"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-✦ SELECTED WORK
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,antd,firebase,git,github,vscode,nodejs,express&perline=7" alt="Tech stack">
+</p>
 
 <table align="center">
 <tr>
-
 <td width="50%" valign="top">
 
-NEXORA
+Area
 
-SaaS / Product Interface
+Technologies
 
-A modern high-performance web experience focused on a polished product UI.
+Frontend
 
-<br>
+HTML5, CSS3, JavaScript, TypeScript, React.js
 
-<a href="https://nexora-saas-platform-drab.vercel.app">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111"/>
-</a>
+React
+
+Hooks, Context API, React Router, reusable components
+
+API
+
+REST APIs, Fetch, async/await, CRUD
+
+UI
+
+Tailwind CSS, Bootstrap, Ant Design
 
 </td>
-
 <td width="50%" valign="top">
 
-SOLESTYLE
+Area
 
-E-Commerce / Visual UI
+Technologies
 
-A premium footwear experience built around product presentation and responsive design.
+Backend — Learning
 
-<br>
+Node.js, Express.js
 
-<a href="https://step-style-landing-page.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111"/>
-</a>
+Backend Services
 
-</td>
+Firebase Authentication, Firestore
 
-</tr>
+Tools
 
-<tr>
+Git, GitHub, VS Code
 
-<td width="50%" valign="top">
+AI — Exploring
 
-ADMIN DASHBOARD
-
-Dashboard / Authentication
-
-A dark admin interface with authentication screens and reusable UI components.
-
-<br>
-
-<a href="https://admin-dashboard-jade-phi-14.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111"/>
-</a>
+AI-assisted features & API integration
 
 </td>
-
-<td width="50%" valign="top">
-
-WEATHER NOW
-
-API / Real-Time Data
-
-A responsive weather application built around real-world API data and asynchronous requests.
-
-<br>
-
-<a href="https://github.com/zainworks721-beep/weather-now">
-<img src="https://img.shields.io/badge/SOURCE%20CODE%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111"/>
-</a>
-
-</td>
-
 </tr>
 </table>
 
-<br>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-◌ GITHUB
+◈ NEXORA
 
-<br>
+SaaS-style web experience focused on a modern product interface.
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&hide_border=true&bg_color=050505&title_color=F3F4F6&icon_color=9CA3AF&text_color=9CA3AF&ring_color=F3F4F6" width="47%"/>
-<img src="https://streak-stats.demolab.com?user=zainworks721-beep&hide_border=true&background=050505&ring=F3F4F6&fire=F3F4F6&currStreakLabel=F3F4F6&sideLabels=9CA3AF&dates=6B7280" width="47%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainworks721-beep&bg_color=050505&color=9CA3AF&line=F3F4F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-ROADMAP
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=600&color=D1D5DB&center=true&vCenter=true&width=760&lines=Frontend+%E2%86%92+React+%E2%86%92+APIs+%E2%86%92+Firebase;Firebase+%E2%86%92+AI+%E2%86%92+Node.js+%E2%86%92+Express;Building+toward+Full-Stack+Development+%E2%9C%93"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-OPEN TO WORK
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=F3F4F6&center=true&vCenter=true&width=650&lines=Frontend+Developer+Intern;React.js+Intern;Junior+Frontend+Developer;Let's+build+something+useful." />
-
-<br><br>
-
-<a href="mailto:zainworks721@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20TALK%20→-111111?style=for-the-badge&labelColor=E5E7EB&color=111111"/>
+<p>
+<a href="https://nexora-saas-platform-drab.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Nexora">
 </a>
+</p>
 
-</div>
+</td>
 
-<br><br>
+<td width="50%" valign="top">
 
-<div align="center">
+◈ SOLESTYLE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:1F2937,50:111111,100:050505" width="100%"/>
+Premium footwear experience with a clean visual and responsive interface.
 
-</div>
+<p>
+<a href="https://step-style-landing-page.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="SoleStyle">
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+◈ ADMIN DASHBOARD
+
+Modern dashboard interface with authentication screens and reusable UI.
+
+<p>
+<a href="https://admin-dashboard-jade-phi-14.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Admin Dashboard">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+◈ WEATHER NOW
+
+Weather application using real-world API data and asynchronous requests.
+
+<p>
+<a href="https://github.com/zainworks721-beep/weather-now">
+<img src="https://img.shields.io/badge/SOURCE%20CODE%20↗-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Weather Now">
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">🚧 CURRENTLY BUILDING</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=9CA3AF&center=true&vCenter=true&width=850&lines=%5B+VIDEO+PLATFORM+%5D;Authentication+%E2%86%92+Profiles+%E2%86%92+Video+Uploads;Firebase+%2B+React;AI+Video+Metadata+Generation;AI+Video+Summaries;Next+Step+%E2%86%92+Node.js+%2B+Express" alt="Currently building animation">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-VIDEO%20PLATFORM-111111?style=flat-square&labelColor=E5E7EB&color=111111" alt="Building video platform">
+  <img src="https://img.shields.io/badge/EXPLORING-AI-111111?style=flat-square&labelColor=E5E7EB&color=111111" alt="Exploring AI">
+  <img src="https://img.shields.io/badge/LEARNING-NODE.JS-111111?style=flat-square&labelColor=E5E7EB&color=111111" alt="Learning Node.js">
+</p>
+
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainworks721-beep&show_icons=true&hide_border=true&bg_color=050505&title_color=F3F4F6&icon_color=9CA3AF&text_color=D1D5DB&ring_color=F3F4F6" width="48%" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=zainworks721-beep&hide_border=true&background=050505&ring=F3F4F6&fire=F3F4F6&currStreakLabel=F3F4F6&sideLabels=D1D5DB&dates=6B7280" width="48%" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainworks721-beep&bg_color=050505&color=D1D5DB&line=F3F4F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Flow" width="96%" alt="Contribution graph">
+</p>
+
+<h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zainworks721-beep/zainworks721-beep/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake">
+</p>
+
+<h2 align="center">💼 OPEN TO OPPORTUNITIES</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=800&color=F3F4F6&center=true&vCenter=true&width=700&lines=Frontend+Developer+Intern;React.js+Intern;Junior+Frontend+Developer;Ready+to+learn.+Ready+to+build." alt="Open to work animation">
+</p>
+
+<p align="center">
+  <a href="mailto:zainworks721@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER%20→-111111?style=for-the-badge&labelColor=E5E7EB&color=111111" alt="Contact">
+  </a>
+</p>
+
+<h2 align="center">🌐 CONNECT</h2>
+
+<p align="center">
+  <a href="https://zain-ul-abdin.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/zain-ul-abdin-397260384/">LinkedIn</a> •
+  <a href="https://github.com/zainworks721-beep">GitHub</a> •
+  <a href="mailto:zainworks721@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <sub>Built with curiosity • powered by coffee • always learning</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:000000,50:111827,100:374151" width="100%" alt="Footer">
+</p>
