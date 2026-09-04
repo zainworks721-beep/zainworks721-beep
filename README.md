@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer-Transparent.gif" width="100%" style="border-radius: 12px;" alt="Developer Workspace">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090B,50:18181B,100:3B0764&text=WELCOME%20TO%20MY%20PROFILE&fontSize=35&fontColor=39FF14&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator&descSize=16&descAlignY=62&descColor=A855F7&animation=fadeIn" width="100%" />
 </p>
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=38&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=بِسْمِ+ٱللَّٰهِ+ٱلرَّحْمَٰنِ+ٱلرَّحِيمِ;السلام+عليكم;Peace+be+upon+you;Hola;Bonjour;Hallo;नमस्ते;こんにちは" />
 </p>
-
-----
 
 <div align="center">
 
@@ -20,13 +17,11 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06B6D4&center=false&vCenter=true&width=700&lines=🚀+Building+Modern+React+Applications;🎨+Creating+Responsive+User+Interfaces;⚡+Exploring+React+Performance;🔥+Building+a+YouTube-Like+Video+Platform;🤖+Exploring+AI+Integration+in+Web+Applications)
 
-----
 
 <div align="center">
 
 ### 👨‍💻 About Me
 
----
 
 </div>
 
@@ -39,13 +34,11 @@
 🌱 Currently exploring **Node.js & Express.js** to move toward full-stack development<br/>
 💡 I use AI tools as development assistants while making sure I understand and can explain the code I build
 
-----
 
 <div align="center">
 
 ### ⚙️ Technical Skills
 
----
 
 <table width="100%">
 <tr>
@@ -80,7 +73,6 @@
 
 ### 💼 Experience
 
-----
 
 </div>
 
@@ -95,7 +87,6 @@
 
 ### 🐍 GitHub Activity
 
------
 
 <div align="center">
 
