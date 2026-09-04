@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer-Transparent.gif" width="100%" style="border-radius: 12px;" alt="Developer Workspace"" width="100%" alt="Zain Ul Abdin Banner">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer-Transparent.gif" width="100%" style="border-radius: 12px;" alt="Developer Workspace">
 </p>
-
 ---
 
 <p align="center">
